@@ -1,37 +1,29 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: About Physics For Girls Summer Workshop
+subtitle:  What is our mission?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Yongwen Sun
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Physics for Girls Summer Workshop's mission is to offer a hands on, immersive, and fun introduction to physics for girls in Grades 7-9.
 
-**Here is some bold text**
+**4-Year's history**
 
-## Here is a secondary heading
+Physics is a very daunting and intimidating subject to approach at first, which is why many students shy away from learning it. However, physics is everywhere! It is the basics to all sciences, and therefore it is a very important subject as well. With growing stereotypes about girls in STEM, my goal is to help girls trespass that boundary and allow them to freely explore the fun and interesting elements of physics.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+This workshop is cost-free, and offers introductory mini-lessons on mechanics (dynamics and kinematics), hands-on labs, guest speakers, and much more. The class capacity is 20, and is first come first serve, so make sure to sign up as soon as possible! Classes will take place from August 7-August 11, from 9:00 AM - 12:00 PM at Ferguson Township Elementary School. Further information will be sent out once a class is established. Deadline to signup is July 30th.
 
-Here's a table:
+If you have further questions, please email me at thelmasun01@gmail.com
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+​
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
+Hope to see you there!
 
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
