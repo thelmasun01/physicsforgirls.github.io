@@ -14,6 +14,8 @@ author: Yongwen Sun
 Physics for Girls Summer Workshop's mission is to offer a hands-on, immersive, and fun introduction to physics for girls in Grades 7-9.
 {: .box-success}
 
+
+
 **4-Year's history**
 
 Physics can initially seem quite challenging and intimidating, which often deters students from engaging with it. Yet, physics forms the foundation of all scientific disciplines, making it an essential subject. In light of the persistent stereotypes surrounding women in STEM, my objective is to empower girls to break through these barriers and discover the exciting aspects of physics.
