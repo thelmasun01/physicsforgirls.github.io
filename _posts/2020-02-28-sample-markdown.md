@@ -12,7 +12,7 @@ author: Yongwen Sun
 
 {: .box-success}
 Physics for Girls Summer Workshop's mission is to offer a hands-on, immersive, and fun introduction to physics for girls in Grades 7-9.
-{: .box-success}
+
 
 
 
