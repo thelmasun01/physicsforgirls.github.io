@@ -31,23 +31,12 @@ It can also be centered!
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 
-## Boxes
-You can add notification, warning and error boxes like this:
 
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Contact
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
 
 ## Local URLs in project sites {#local-urls}
 
